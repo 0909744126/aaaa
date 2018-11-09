@@ -1,0 +1,31 @@
+/*!
+ * Start Bootstrap - 1 Col Portfolio (https://startbootstrap.com/template-overviews/1-col-portfolio)
+ * Copyright 2013-2018 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-1-col-portfolio/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+    background-color: rgb(29, 28, 28);
+  }
+}
+
+@media print {
+  footer {page-break-after: always;}
+}
+
+.pagination {
+  margin-bottom: 15px;
+}
+
+.dropdown:hover a:hover{color: DodgerBlue;}
+.dropdown-menu:hover a:hover{background-color: rgb(169, 199, 100);}
+.dropdown{color: white;}
+h1,h3,p {color: aliceblue}
+img.img-fluid{width:700px ;height: 300px;}
+input,button{border-radius:5px; }
